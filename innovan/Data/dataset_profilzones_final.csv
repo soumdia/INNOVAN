@@ -1,0 +1,31 @@
+id_zone,zone,region,type_reseau,population_estimee,age_moyen_infra_ans,nb_incidents_annuels,taux_couverture_pct,indice_fragilite,langue_dominante
+1,Yopougon,Grand Abidjan,urbain dense,1907768,22,58,89,élevé,dioula / français
+2,Abobo,Grand Abidjan,urbain dense,1627283,24,62,84,élevé,dioula / français
+3,Cocody,Grand Abidjan,urbain résidentiel,841014,14,22,97,faible,français
+4,Plateau,Grand Abidjan,urbain commercial,8726,30,18,99,modéré,français
+5,Adjamé,Grand Abidjan,urbain commercial,413950,28,45,93,modéré,dioula / français
+6,Marcory,Grand Abidjan,urbain résidentiel,259937,18,28,95,faible,français
+7,Treichville,Grand Abidjan,urbain dense,129388,35,50,91,élevé,français / baoulé
+8,Koumassi,Grand Abidjan,urbain industriel,500640,20,34,92,modéré,français
+9,Port-Bouët,Grand Abidjan,urbain industriel,751412,16,20,94,faible,français
+10,Bouaké,Vallée du Bandama,urbain intermédiaire,724691,26,48,78,modéré,baoulé / dioula
+11,Daloa,Haut-Sassandra,urbain intermédiaire,360630,28,42,72,modéré,bété / français
+12,Korhogo,Poro,urbain intermédiaire,357761,30,52,68,élevé,sénoufo / dioula
+13,San-Pédro,San-Pédro,urbain portuaire,293698,18,30,80,modéré,français / kroumen
+14,Man,Tonkpi,urbain intermédiaire,230997,32,55,65,élevé,dan / français
+15,Yamoussoukro,Bélier,urbain administratif,245612,15,18,88,faible,baoulé / français
+16,Abengourou,Indénié-Djuablin,urbain intermédiaire,145514,27,38,70,modéré,agni / français
+17,Gagnoa,Gôh,semi-rural,219607,34,65,58,élevé,bété / français
+18,Divo,Lôh-Djiboua,semi-rural,191745,36,70,55,très élevé,dida / français
+19,Bondoukou,Gontougo,semi-rural,122309,38,72,50,très élevé,koulango / dioula
+20,Odienné,Kabadougou,rural,53366,40,80,42,très élevé,malinké
+21,Séguéla,Worodougou,semi-rural,66987,37,68,48,très élevé,dioula / koyaka
+22,Touba,Bafing,rural,22831,42,85,38,très élevé,malinké
+23,Bouna,Bounkani,rural,24312,39,75,44,très élevé,koulango / dioula
+24,Issia,Haut-Sassandra,semi-rural,83109,35,60,52,élevé,bété / français
+25,Tiassalé,Agnéby-Tiassa,semi-rural,35090,33,55,60,élevé,adjoukrou / français
+26,Guiglo,Cavally,semi-rural,92479,36,67,49,très élevé,wobé / guéré
+27,Dimbokro,N'Zi,semi-rural,62212,31,48,63,modéré,baoulé / français
+28,Agboville,Agnéby-Tiassa,semi-rural,94824,29,44,66,modéré,abbé / français
+29,Sassandra,Gbôklé,rural,34492,41,78,40,très élevé,godié / français
+30,Ferkessédougou,Hambol,semi-rural,113471,32,53,62,modéré,sénoufo / dioula

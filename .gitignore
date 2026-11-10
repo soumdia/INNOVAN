@@ -1,0 +1,25 @@
+# --- Fichiers volumineux (> 100 Mo, refusés par GitHub) ---
+# Modèles IA entraînés : à copier manuellement dans innovan/models/
+innovan/models/model_coupure_v8.pkl
+innovan/models/model_cause_v8.pkl
+
+# Gros datasets bruts
+innovan/Data/data_poste.csv
+innovan/Data/dataset2_observations*.csv
+
+# --- Python ---
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# --- Secrets / environnement ---
+.env
+*.env.local
+
+# --- Divers ---
+*.log
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/

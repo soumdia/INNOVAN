@@ -1,0 +1,297 @@
+poste_id,zone,quartier,cluster,latitude,longitude
+PST_0001,Yopougon,Sicogi,A,5.3475,-4.0382
+PST_0002,Yopougon,Sogefiha,A,5.3832,-4.0734
+PST_0003,Yopougon,Selmer,A,5.3256,-4.1177
+PST_0004,Yopougon,Niangon Nord,A,5.3158,-4.0467
+PST_0005,Yopougon,Niangon Sud,A,5.3701,-4.0625
+PST_0006,Yopougon,Wassakara,A,5.3121,-4.0363
+PST_0007,Yopougon,Banco Nord,A,5.3932,-4.1121
+PST_0008,Yopougon,Millionnaire,A,5.3282,-4.115
+PST_0009,Yopougon,Toit Rouge,A,5.3404,-4.0808
+PST_0010,Yopougon,Yao Séhi,A,5.3532,-4.1042
+PST_0011,Yopougon,Sideci,A,5.3712,-4.1194
+PST_0012,Yopougon,Siporex,A,5.3392,-4.0967
+PST_0013,Yopougon,Zone Industrielle Yop,A,5.3556,-4.0548
+PST_0014,Yopougon,Gesco,A,5.33,-4.0819
+PST_0015,Yopougon,Sopim,A,5.3692,-4.1287
+PST_0016,Yopougon,Cité Verte,A,5.3708,-4.1162
+PST_0017,Yopougon,Maroc,A,5.3165,-4.0384
+PST_0018,Yopougon,Yopougon Attié,A,5.4066,-4.0525
+PST_0019,Yopougon,Ananeraie,A,5.3405,-4.1235
+PST_0020,Yopougon,Lièvre Rouge,A,5.3784,-4.0893
+PST_0021,Yopougon,Sicobois,A,5.3222,-4.0838
+PST_0022,Yopougon,Port-Bouët II,A,5.3134,-4.0424
+PST_0023,Cocody,Riviera 1,A,5.3359,-3.967
+PST_0024,Cocody,Riviera 2,A,5.3412,-3.9813
+PST_0025,Cocody,Riviera 3,A,5.3647,-4.0148
+PST_0026,Cocody,II Plateaux,A,5.407,-3.9558
+PST_0027,Cocody,Angré,A,5.4039,-3.9438
+PST_0028,Cocody,Djibi,A,5.3698,-3.9411
+PST_0029,Cocody,Ambassades,A,5.3188,-4.0137
+PST_0030,Cocody,Bonoumin,A,5.3145,-4.0008
+PST_0031,Cocody,Palmeraie,A,5.3489,-4.0062
+PST_0032,Cocody,Blockhauss,A,5.3929,-3.9976
+PST_0033,Cocody,Riviera Golf,A,5.3381,-3.979
+PST_0034,Cocody,Cocody Village,A,5.3241,-3.9531
+PST_0035,Cocody,Faya,A,5.3175,-3.9346
+PST_0036,Cocody,Saint-Jean,A,5.3872,-4.0134
+PST_0037,Cocody,Béago,A,5.3106,-3.9518
+PST_0038,Cocody,Mermoz,A,5.3807,-3.9604
+PST_0039,Cocody,Préfecture Cocody,A,5.3871,-4.0259
+PST_0040,Cocody,Riviera Palmeraie,A,5.3458,-4.0217
+PST_0041,Cocody,Riviera 1,A,5.3963,-3.971
+PST_0042,Cocody,Riviera 2,A,5.3431,-4.0269
+PST_0043,Abobo,Abobo Baoulé,A,5.3978,-4.0342
+PST_0044,Abobo,Abobo Gare,A,5.4397,-4.0029
+PST_0045,Abobo,Abobo Est,A,5.4554,-4.0195
+PST_0046,Abobo,Abobo Ouest,A,5.3787,-3.9954
+PST_0047,Abobo,Sagbé,A,5.4428,-4.0106
+PST_0048,Abobo,N'Dotré,A,5.4438,-4.0173
+PST_0049,Abobo,Agnissankoi,A,5.419,-4.0239
+PST_0050,Abobo,Belle Ville,A,5.3692,-4.0559
+PST_0051,Abobo,Clouetcha,A,5.3698,-4.0031
+PST_0052,Abobo,Avocatier,A,5.3981,-4.0158
+PST_0053,Abobo,PK 18,A,5.4575,-4.0418
+PST_0054,Abobo,Sogefiha Abobo,A,5.4077,-3.9911
+PST_0055,Abobo,Williamsville Nord,A,5.3896,-4.059
+PST_0056,Abobo,Abobo Baoulé,A,5.3957,-4.0506
+PST_0057,Abobo,Abobo Gare,A,5.4597,-3.9859
+PST_0058,Abobo,Abobo Est,A,5.43,-3.9796
+PST_0059,Adjamé,Adjamé Blingué,A,5.3971,-4.048
+PST_0060,Adjamé,Adjamé Village,A,5.406,-4.0128
+PST_0061,Adjamé,220 Logements,A,5.3974,-3.9771
+PST_0062,Adjamé,Williamsville,A,5.3485,-4.0557
+PST_0063,Adjamé,Bracodi,A,5.3395,-4.024
+PST_0064,Adjamé,Renouard,A,5.3985,-3.9806
+PST_0065,Adjamé,Fraternité,A,5.3174,-4.0156
+PST_0066,Adjamé,Agban Village,A,5.3584,-4.0445
+PST_0067,Adjamé,Adjamé Blingué,A,5.3287,-4.0329
+PST_0068,Adjamé,Adjamé Village,A,5.411,-4.0344
+PST_0069,Adjamé,220 Logements,A,5.3686,-3.9964
+PST_0070,Adjamé,Williamsville,A,5.3531,-3.9695
+PST_0071,Adjamé,Bracodi,A,5.4129,-4.0415
+PST_0072,Adjamé,Renouard,A,5.3664,-4.0366
+PST_0073,Plateau,Centre Administratif,A,5.2952,-4.063
+PST_0074,Plateau,Zone Commerciale Plateau,A,5.3277,-4.0164
+PST_0075,Plateau,Cité Administrative,A,5.2718,-4.0388
+PST_0076,Plateau,Bord de Lagune,A,5.3575,-4.0427
+PST_0077,Plateau,Zone Franche,A,5.2812,-4.0178
+PST_0078,Plateau,Zone des Ambassades Plateau,A,5.3653,-4.0425
+PST_0079,Plateau,Centre Administratif,A,5.3339,-3.9905
+PST_0080,Plateau,Zone Commerciale Plateau,A,5.2905,-3.9939
+PST_0081,Plateau,Cité Administrative,A,5.3035,-4.0035
+PST_0082,Plateau,Bord de Lagune,A,5.3301,-4.0131
+PST_0083,Plateau,Zone Franche,A,5.2757,-3.9832
+PST_0084,Plateau,Zone des Ambassades Plateau,A,5.2988,-4.048
+PST_0085,Treichville,Treichville Centre,A,5.2524,-4.0042
+PST_0086,Treichville,Zone 1,A,5.3161,-4.0616
+PST_0087,Treichville,Zone 2,A,5.2995,-4.0407
+PST_0088,Treichville,Zone 3,A,5.3128,-4.0459
+PST_0089,Treichville,Anoumabo,A,5.3174,-4.0246
+PST_0090,Treichville,Port de Treichville,A,5.342,-4.0495
+PST_0091,Treichville,Rezodrome,A,5.2824,-4.052
+PST_0092,Treichville,Treichville Centre,A,5.3408,-3.9756
+PST_0093,Treichville,Zone 1,A,5.2741,-3.9973
+PST_0094,Treichville,Zone 2,A,5.33,-4.0078
+PST_0095,Treichville,Zone 3,A,5.3013,-4.0391
+PST_0096,Treichville,Anoumabo,A,5.2576,-3.9736
+PST_0097,Treichville,Port de Treichville,A,5.3383,-4.0
+PST_0098,Marcory,Zone 4,A,5.2839,-3.9984
+PST_0099,Marcory,Biétry,A,5.3226,-3.9436
+PST_0100,Marcory,Marcory Résidentiel,A,5.3387,-3.9553
+PST_0101,Marcory,Anoumabo Marcory,A,5.3142,-4.0249
+PST_0102,Marcory,Zone 4C,A,5.2662,-3.9434
+PST_0103,Marcory,Sicap,A,5.3106,-4.0324
+PST_0104,Marcory,Nouveau Koumassi,A,5.2601,-3.9669
+PST_0105,Marcory,Zone 4A,A,5.2505,-4.0172
+PST_0106,Marcory,Zone 4,A,5.3049,-3.9641
+PST_0107,Marcory,Biétry,A,5.3152,-4.0109
+PST_0108,Marcory,Marcory Résidentiel,A,5.3212,-4.0096
+PST_0109,Marcory,Anoumabo Marcory,A,5.2825,-3.9587
+PST_0110,Marcory,Zone 4C,A,5.315,-3.9484
+PST_0111,Marcory,Sicap,A,5.3158,-3.9765
+PST_0112,Marcory,Nouveau Koumassi,A,5.2594,-3.9965
+PST_0113,Koumassi,Grand Campement,A,5.2598,-3.9923
+PST_0114,Koumassi,Résidentiel Koumassi,A,5.3306,-3.9774
+PST_0115,Koumassi,Zone Industrielle Koumassi,A,5.3225,-3.9536
+PST_0116,Koumassi,Remblai Koumassi,A,5.3128,-3.9664
+PST_0117,Koumassi,Sopim Koumassi,A,5.291,-3.9674
+PST_0118,Koumassi,Combattants,A,5.2528,-3.9445
+PST_0119,Koumassi,Grand Campement,A,5.2614,-4.0143
+PST_0120,Koumassi,Résidentiel Koumassi,A,5.2978,-3.999
+PST_0121,Koumassi,Zone Industrielle Koumassi,A,5.3273,-3.9213
+PST_0122,Koumassi,Remblai Koumassi,A,5.3248,-3.9797
+PST_0123,Koumassi,Sopim Koumassi,A,5.2348,-3.9239
+PST_0124,Koumassi,Combattants,A,5.2761,-3.92
+PST_0125,Koumassi,Grand Campement,A,5.3297,-3.9314
+PST_0126,Koumassi,Résidentiel Koumassi,A,5.2627,-3.9782
+PST_0127,Koumassi,Zone Industrielle Koumassi,A,5.3184,-3.985
+PST_0128,Port-Bouët,Vridi 1,A,5.2169,-3.9276
+PST_0129,Port-Bouët,Vridi 2,A,5.2936,-3.9137
+PST_0130,Port-Bouët,Vridi Canal,A,5.257,-3.9736
+PST_0131,Port-Bouët,Petit Bassam,A,5.2615,-3.8843
+PST_0132,Port-Bouët,Gonzagueville,A,5.214,-3.9315
+PST_0133,Port-Bouët,Zone Aéroportuaire,A,5.2877,-3.9092
+PST_0134,Port-Bouët,Port-Bouët Centre,A,5.2697,-3.9131
+PST_0135,Port-Bouët,Vridi 1,A,5.2359,-3.9539
+PST_0136,Port-Bouët,Vridi 2,A,5.2809,-3.9023
+PST_0137,Port-Bouët,Vridi Canal,A,5.2867,-3.892
+PST_0138,Port-Bouët,Petit Bassam,A,5.2511,-3.9331
+PST_0139,Port-Bouët,Gonzagueville,A,5.2798,-3.9183
+PST_0140,Port-Bouët,Zone Aéroportuaire,A,5.2702,-3.9037
+PST_0141,Port-Bouët,Port-Bouët Centre,A,5.289,-3.9495
+PST_0142,Port-Bouët,Vridi 1,A,5.2376,-3.9739
+PST_0143,Attécoubé,Attécoubé Centre,A,5.3411,-4.0964
+PST_0144,Attécoubé,Washington,A,5.3299,-4.0457
+PST_0145,Attécoubé,Koko,A,5.312,-4.0409
+PST_0146,Attécoubé,Abobodoumé,A,5.2864,-4.0963
+PST_0147,Attécoubé,Banco 1,A,5.3656,-4.064
+PST_0148,Attécoubé,Attoban,A,5.296,-4.0478
+PST_0149,Attécoubé,Attécoubé Centre,A,5.3603,-4.0784
+PST_0150,Attécoubé,Washington,A,5.3456,-4.0915
+PST_0151,Attécoubé,Koko,A,5.2885,-4.0469
+PST_0152,Attécoubé,Abobodoumé,A,5.3374,-4.0363
+PST_0153,Attécoubé,Banco 1,A,5.3559,-4.0024
+PST_0154,Attécoubé,Attoban,A,5.3349,-4.0677
+PST_0155,Bouaké,Air France,A,7.7128,-5.0562
+PST_0156,Bouaké,Broukro,A,7.6772,-5.0755
+PST_0157,Bouaké,Commerce Bouaké,A,7.6358,-4.987
+PST_0158,Bouaké,Dar Es Salam,A,7.7169,-5.0137
+PST_0159,Bouaké,Kennedy Bouaké,A,7.6742,-5.066
+PST_0160,Bouaké,Koko Bouaké,A,7.6489,-5.0583
+PST_0161,Bouaké,Nimbo,A,7.6882,-5.0118
+PST_0162,Bouaké,Sokoura,A,7.6993,-5.0553
+PST_0163,Bouaké,N'Gattakro,A,7.7288,-5.0095
+PST_0164,Bouaké,Belleville,A,7.6887,-5.0221
+PST_0165,Bouaké,Zone Industrielle Bouaké,A,7.6753,-5.0585
+PST_0166,Bouaké,Tafiré,A,7.6689,-5.0075
+PST_0167,Bouaké,Djékanou,A,7.6347,-5.0717
+PST_0168,San-Pédro,Bardot,A,4.7046,-6.6792
+PST_0169,San-Pédro,Cité Port,A,4.7855,-6.6129
+PST_0170,San-Pédro,Grand-Zibérby,A,4.7474,-6.6735
+PST_0171,San-Pédro,Kpaning,A,4.7492,-6.636
+PST_0172,San-Pédro,Lac,A,4.7173,-6.6399
+PST_0173,San-Pédro,Liberia,A,4.7399,-6.6217
+PST_0174,San-Pédro,Neuf,A,4.7635,-6.6788
+PST_0175,San-Pédro,San-Pédro Centre,A,4.7375,-6.6207
+PST_0176,San-Pédro,Zone Industrielle SP,A,4.7503,-6.5977
+PST_0177,San-Pédro,Cité Balmer,A,4.7659,-6.667
+PST_0178,San-Pédro,Bardot,A,4.7071,-6.6191
+PST_0179,Daloa,Commerce Daloa,B,6.7413,-6.4243
+PST_0180,Daloa,Gbeuliville,B,7.0154,-6.4274
+PST_0181,Daloa,Kumba,B,6.8498,-6.407
+PST_0182,Daloa,Orly,B,6.8708,-6.4363
+PST_0183,Daloa,Piscine,B,7.0157,-6.4842
+PST_0184,Daloa,Résidentiel Daloa,B,7.0217,-6.3284
+PST_0185,Daloa,Tazibouo,B,6.792,-6.5792
+PST_0186,Daloa,Lobia,B,6.7635,-6.5945
+PST_0187,Daloa,Labia,B,6.7616,-6.3951
+PST_0188,Daloa,Kirman,B,6.7547,-6.5043
+PST_0189,Yamoussoukro,Habitat Yamk,B,6.9202,-5.4263
+PST_0190,Yamoussoukro,Kennedy Yamoussoukro,B,6.911,-5.3487
+PST_0191,Yamoussoukro,Morofé,B,6.7021,-5.2243
+PST_0192,Yamoussoukro,N'Zuessy,B,6.8554,-5.1701
+PST_0193,Yamoussoukro,Sokoura Yamk,B,6.8872,-5.1923
+PST_0194,Yamoussoukro,Dioulakro,B,6.7513,-5.3801
+PST_0195,Yamoussoukro,Lobia Yamk,B,6.8919,-5.1912
+PST_0196,Yamoussoukro,Millionnaire Yamk,B,6.9639,-5.3095
+PST_0197,Yamoussoukro,Assabou,B,6.7783,-5.2004
+PST_0198,Man,Domoraud,B,7.3522,-7.4208
+PST_0199,Man,Gbapleu,B,7.5075,-7.5713
+PST_0200,Man,Gbatongouin,B,7.4753,-7.4736
+PST_0201,Man,Man Centre,B,7.2809,-7.4292
+PST_0202,Man,Résidentiel Man,B,7.4016,-7.4521
+PST_0203,Man,Sapia,B,7.346,-7.4313
+PST_0204,Man,Ponan,B,7.3668,-7.6967
+PST_0205,Man,Zohoa,B,7.5216,-7.6726
+PST_0206,Abengourou,Abengourou Centre,B,6.6791,-3.3483
+PST_0207,Abengourou,Cité Divo Abg,B,6.8685,-3.4613
+PST_0208,Abengourou,Commerce Abg,B,6.7729,-3.4988
+PST_0209,Abengourou,Koffikro,B,6.6713,-3.5347
+PST_0210,Abengourou,N'Foutié,B,6.7851,-3.4076
+PST_0211,Abengourou,Résidentiel Abg,B,6.8208,-3.3964
+PST_0212,Abengourou,Abengourou Centre,B,6.6107,-3.485
+PST_0213,Divo,Divo Centre,B,5.7006,-5.3351
+PST_0214,Divo,Divo Commerce,B,5.8158,-5.2337
+PST_0215,Divo,Divo Résidentiel,B,5.7886,-5.4649
+PST_0216,Divo,Gnagbodougnoa,B,5.7262,-5.2715
+PST_0217,Divo,N'Guessankro,B,5.8688,-5.4697
+PST_0218,Divo,Sokoura Divo,B,5.7085,-5.2897
+PST_0219,Divo,Divo Centre,B,5.7051,-5.2534
+PST_0220,Gagnoa,Babré,B,6.1952,-6.0756
+PST_0221,Gagnoa,Commerce Gagnoa,B,6.0088,-5.804
+PST_0222,Gagnoa,Gagnoa Centre,B,6.0956,-5.9888
+PST_0223,Gagnoa,Guibéroua,B,6.2271,-5.8158
+PST_0224,Gagnoa,Résidentiel Gagnoa,B,6.2791,-5.874
+PST_0225,Gagnoa,Gnagbodougnoa Gagnoa,B,6.0962,-6.0749
+PST_0226,Gagnoa,Babré,B,6.2164,-5.9325
+PST_0227,Agboville,Agboville Centre,B,5.894,-4.0948
+PST_0228,Agboville,Agboville Commerce,B,5.8001,-4.2189
+PST_0229,Agboville,N'Dènou,B,5.7701,-4.2261
+PST_0230,Agboville,Résidentiel Agboville,B,5.7836,-4.3311
+PST_0231,Agboville,Zone Est Agboville,B,5.802,-4.1719
+PST_0232,Agboville,Agboville Centre,B,5.9905,-4.1917
+PST_0233,Aboisso,Aboisso Centre,B,5.6054,-3.2375
+PST_0234,Aboisso,Commerce Aboisso,B,5.4024,-3.0894
+PST_0235,Aboisso,Résidentiel Aboisso,B,5.3838,-3.061
+PST_0236,Aboisso,Kodjoboué,B,5.3203,-3.059
+PST_0237,Aboisso,Nouveau Quartier Aboisso,B,5.3296,-3.0827
+PST_0238,Aboisso,Aboisso Centre,B,5.475,-3.0521
+PST_0239,Bouaflé,Bouaflé Centre,B,6.8554,-5.7338
+PST_0240,Bouaflé,Commerce Bouaflé,B,7.1241,-5.7431
+PST_0241,Bouaflé,Résidentiel Bouaflé,B,7.0221,-5.6913
+PST_0242,Bouaflé,Kpétibouo,B,6.9697,-5.7117
+PST_0243,Bouaflé,Zaïbo,B,7.0086,-5.6297
+PST_0244,Bouaflé,Bouaflé Centre,B,6.8469,-5.8157
+PST_0245,Dimbokro,Dimbokro Centre,B,6.7851,-4.5829
+PST_0246,Dimbokro,Nouveau Quartier Dimbokro,B,6.6367,-4.664
+PST_0247,Dimbokro,Résidentiel Dimbokro,B,6.5832,-4.7936
+PST_0248,Dimbokro,Tchiago,B,6.6391,-4.744
+PST_0249,Dimbokro,Commerce Dimbokro,B,6.6751,-4.8267
+PST_0250,Dimbokro,Dimbokro Centre,B,6.7923,-4.5541
+PST_0251,Bondoukou,Bondoukou Centre,B,8.0927,-2.7892
+PST_0252,Bondoukou,Commerce Bondoukou,B,7.9762,-2.7059
+PST_0253,Bondoukou,Résidentiel Bondoukou,B,8.0887,-2.9012
+PST_0254,Bondoukou,Zanzan,B,8.1566,-2.7032
+PST_0255,Bondoukou,Tabagne,B,8.1682,-2.7323
+PST_0256,Bondoukou,Bondoukou Centre,B,8.0673,-2.8245
+PST_0257,Guiglo,Guiglo Centre,B,6.6631,-7.3735
+PST_0258,Guiglo,Commerce Guiglo,B,6.3969,-7.6254
+PST_0259,Guiglo,Résidentiel Guiglo,B,6.4962,-7.3901
+PST_0260,Guiglo,Logota,B,6.6795,-7.5882
+PST_0261,Guiglo,Gao,B,6.5615,-7.519
+PST_0262,Korhogo,Korhogo Centre,C,9.591,-5.5307
+PST_0263,Korhogo,Nafoun,C,9.5515,-5.6427
+PST_0264,Korhogo,Résidentiel Korhogo,C,9.4244,-5.7013
+PST_0265,Korhogo,Soba,C,9.3169,-5.5239
+PST_0266,Korhogo,Commerce Korhogo,C,9.5439,-5.4834
+PST_0267,Korhogo,Sokoroni,C,9.599,-5.6167
+PST_0268,Korhogo,Kassiré,C,9.5307,-5.4999
+PST_0269,Korhogo,Korhogo Centre,C,9.5549,-5.7091
+PST_0270,Ferkessédougou,Ferké Centre,C,9.5685,-5.3113
+PST_0271,Ferkessédougou,Commerce Ferké,C,9.7195,-5.1681
+PST_0272,Ferkessédougou,Résidentiel Ferké,C,9.5019,-5.1485
+PST_0273,Ferkessédougou,Sinématiali,C,9.6187,-5.2426
+PST_0274,Ferkessédougou,Nouveau Quartier Ferké,C,9.4674,-5.1485
+PST_0275,Ferkessédougou,Ferké Centre,C,9.5894,-5.1183
+PST_0276,Odienné,Odienné Centre,C,9.506,-7.461
+PST_0277,Odienné,Commerce Odienné,C,9.5156,-7.5484
+PST_0278,Odienné,Résidentiel Odienné,C,9.613,-7.5957
+PST_0279,Odienné,Tiémé,C,9.3902,-7.7081
+PST_0280,Odienné,Goulia,C,9.5765,-7.5306
+PST_0281,Odienné,Odienné Centre,C,9.5612,-7.6528
+PST_0282,Séguéla,Séguéla Centre,C,7.8409,-6.8123
+PST_0283,Séguéla,Commerce Séguéla,C,7.9052,-6.6397
+PST_0284,Séguéla,Résidentiel Séguéla,C,7.9177,-6.6855
+PST_0285,Séguéla,Vavoua,C,8.0712,-6.7122
+PST_0286,Séguéla,Mankono,C,7.9542,-6.5816
+PST_0287,Touba,Touba Centre,C,8.2523,-7.6467
+PST_0288,Touba,Commerce Touba,C,8.392,-7.5484
+PST_0289,Touba,Résidentiel Touba,C,8.1774,-7.5553
+PST_0290,Touba,Gbéléban,C,8.2809,-7.7558
+PST_0291,Touba,Koro,C,8.271,-7.5393
+PST_0292,Tengréla,Tengréla Centre,C,10.4811,-6.4514
+PST_0293,Tengréla,Commerce Tengréla,C,10.5233,-6.478
+PST_0294,Tengréla,Résidentiel Tengréla,C,10.3561,-6.5113
+PST_0295,Tengréla,Tafire,C,10.3717,-6.5044
+PST_0296,Tengréla,Niofoin,C,10.3749,-6.3577
